@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/mnuHome"
+        android:icon="@drawable/ic_fluent_home_20_regular"
+        android:title="Beranda" />
+    <item
+        android:id="@+id/mnuSearch"
+        android:icon="@drawable/ic_fluent_search_20_regular"
+        android:title="Cari" />
+    <item
+        android:id="@+id/mnuInfo"
+        android:icon="@drawable/ic_fluent_info_20_regular"
+        android:title="Info" />
+    <item
+        android:id="@+id/mnuProfile"
+        android:icon="@drawable/ic_fluent_person_5_32_regular"
+        android:title="Profile" />
+</menu>

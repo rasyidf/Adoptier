@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">"Adoptier "</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pet_profile_creation">PetProfileCreationActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="adoptier_logo">Adoptier Logo</string>
+    <string name="daftar">Daftar</string>
+    <string name="masuk">Masuk</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+
+    <string-array name="petArray">
+        <item>Anjing</item>
+        <item>kucing</item>
+        <item>burung beo</item>
+        <item>kuda</item>
+        <item>Hamster</item>
+        <item>Ikan</item>
+        <item>kelinci</item>
+        <item>penyu</item>
+        <item>lembu</item>
+        <item>ayam jantan</item>
+        <item>ular</item>
+
+    </string-array>
+
+    <string-array name="petAge">
+        <item>0-1</item>
+        <item>1-2</item>
+        <item>3-4</item>
+        <item>4-5</item>
+        <item>5+</item>
+
+    </string-array>
+
+    <string-array name="city">
+        <item>Kabupaten Bantul</item>
+        <item>Kabupaten Gunung kildul</item>
+        <item>Kabupaten Kulon Progo</item>
+        <item>Kabupaten Sleman</item>
+        <item>Kota Yogyakarta</item>
+    </string-array>
+</resources>

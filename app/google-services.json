@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "41403407005",
+    "firebase_url": "https://adoptier-dev-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "adoptier-dev",
+    "storage_bucket": "adoptier-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41403407005:android:85ecef1b76b949f0b9d274",
+        "android_client_info": {
+          "package_name": "com.rasyidf.adoptier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41403407005-21laac6fdh49f34erfahhrvvi1b0b381.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRh3ogCSDjmJ5GdQX_fi0vbXhMif2Fs-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41403407005-21laac6fdh49f34erfahhrvvi1b0b381.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
