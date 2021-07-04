@@ -25,7 +25,6 @@ import com.rasyidf.adoptier.R;
 public class LoginActivity extends AppCompatActivity {
 
   String userId;
-  ProgressDialog progressBar;
   private FirebaseDatabase mFireBaseDatabase;
   private DatabaseReference mRef;
   private FirebaseAuth mAuth;
